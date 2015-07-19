@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: Guild Invite Tool
+## Version: v60200-0.0.1 
+## Author: Almightree
+## Notes: A tool to organize potential guild invites.
+
+GuildInviteTool.lua
